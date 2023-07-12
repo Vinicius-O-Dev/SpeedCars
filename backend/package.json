@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Site de carros rápidos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinicius-O-Dev/SpeedCars.git"
+  },
+  "author": "Vinicius Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinicius-O-Dev/SpeedCars/issues"
+  },
+  "homepage": "https://github.com/Vinicius-O-Dev/SpeedCars#readme"
+}
